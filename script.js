@@ -19,7 +19,7 @@ if (!location.hash) {
 const chatHash = location.hash.substring(1);
 
 // TODO: Replace with your own channel ID
-const drone = new ScaleDrone('yiS12Ts5RdNhebyM');
+const drone = new ScaleDrone('Kt3Tuu5PPP2J6dqO6vPF5YnGDkF31579');
 // Scaledrone room name needs to be prefixed with 'observable-'
 const roomName = 'observable-' + chatHash;
 // Scaledrone room used for signaling
